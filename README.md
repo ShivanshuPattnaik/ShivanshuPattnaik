@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivanshuPattnaik
-- 👀 I’m interested in Web & App & Game Devlopment 👨‍💻👨‍💻👨‍💻
+- 👀 I’m interested in Web & App & Game Development 👨‍💻👨‍💻👨‍💻
 - 🌱 I’m currently learning JavaScript
 - 🙃 Follow Meh!!
 - 📎 Contact Me On shivanshupattnaik@gmail.com
